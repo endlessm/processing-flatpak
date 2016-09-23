@@ -5,7 +5,8 @@
   "command": "processing",
   "finish-args": [
      "--socket=x11",
-     "--share=network"
+     "--share=network",
+     "--device=dri"
   ],
   "modules": [
     {
