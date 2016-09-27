@@ -1,5 +1,5 @@
 {
-  "app-id": "org.processing.Processing",
+  "app-id": "org.processing.App",
   "runtime": "com.endlessm.Platform",
   "sdk": "com.endlessm.Sdk",
   "command": "processing",
@@ -8,7 +8,7 @@
      "--share=network",
      "--share=ipc",
      "--device=dri",
-     "--filesystem=~/.processing"
+     "--filesystem=home"
   ],
   "modules": [
     {
