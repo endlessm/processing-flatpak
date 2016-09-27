@@ -1,7 +1,8 @@
 {
   "app-id": "org.processing.App",
-  "runtime": "com.endlessm.Platform",
-  "sdk": "com.endlessm.Sdk",
+  "runtime": "org.gnome.Platform",
+  "runtime-version": "3.20",
+  "sdk": "org.gnome.Sdk",
   "command": "processing",
   "finish-args": [
      "--socket=x11",
