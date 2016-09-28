@@ -25,6 +25,16 @@
           "type": "file",
           "path": "Makefile",
           "dest-filename": "Makefile"
+        },
+        {
+          "type": "file",
+          "path": "org.processing.App.png",
+          "dest-filename": "org.processing.App.png"
+        },
+        {
+          "type": "file",
+          "path": "org.processing.App.desktop",
+          "dest-filename": "org.processing.App.desktop"
         }
       ]
     }

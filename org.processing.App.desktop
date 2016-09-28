@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Processing
+GenericName=Processing
+Comment=Programming environment for creating images, animations and interactions
+Exec=processing
+Icon=org.processing.App
+Categories=Application;Development;IDE;
