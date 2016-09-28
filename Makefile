@@ -8,3 +8,4 @@ install:
 	cp org.processing.App.desktop /app/share/applications
 	mkdir -p /app/share/icons/hicolor/128x128/apps
 	cp org.processing.App.png /app/share/icons/hicolor/128x128/apps/
+	chmod -R go+rX /app/Processing
