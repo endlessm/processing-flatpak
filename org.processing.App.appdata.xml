@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- See https://wiki.gnome.org/GnomeGoals/AppDataGnomeSoftware -->
+<component type="desktop">
+  <id>org.processing.App.desktop</id>
+  <metadata_licence>CC-BY-SA</metadata_licence>
+  <description>
+    <p>
+      Processing is a flexible software sketchbook and a language for learning
+      how to code within the context of the visual arts.
+    </p>
+    <p>
+      Included is an integrated development environment that can be used
+      to develop visual content through coding.
+    </p>
+  </description>
+  <screenshots>
+      <screenshot type="default" width="1248" height="702">https://github.com/endlessm/processing-flatpak/blob/master/processing-screenshot.png</screenshot>
+  </screenshots>
+  <url type="homepage">https://processing.org/</url>
+  <updatecontact>iago@kinvolk.io</updatecontact>
+</component>
