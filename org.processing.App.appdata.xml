@@ -17,5 +17,4 @@
       <screenshot type="default" width="1248" height="702">https://raw.githubusercontent.com/endlessm/processing-flatpak/master/processing-screenshot.png</screenshot>
   </screenshots>
   <url type="homepage">https://processing.org/</url>
-  <updatecontact>iago@kinvolk.io</updatecontact>
 </component>
