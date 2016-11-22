@@ -35,6 +35,11 @@
           "type": "file",
           "path": "org.processing.App.desktop",
           "dest-filename": "org.processing.App.desktop"
+        },
+        {
+          "type": "file",
+          "path": "org.processing.App.appdata.xml",
+          "dest-filename": "org.processing.App.appdata.xml"
         }
       ]
     }
