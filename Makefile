@@ -10,4 +10,6 @@ install:
 	cp org.processing.App.png /app/share/icons/hicolor/128x128/apps/
 	mkdir -p /app/share/appdata
 	cp org.processing.App.appdata.xml /app/share/appdata/
+	mkdir -p /app/share/mime/packages/
+	cp org.processing.App.mime.xml /app/share/mime/packages/org.processing.App.xml
 	chmod -R go+rX /app/Processing
