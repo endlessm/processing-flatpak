@@ -22,6 +22,10 @@
           "sha256": "f17594ce2a16feaa49e0ab76aac44201b0d65c7b5b8b6280c978f6f5d9f8f627"
         },
         {
+          "type": "patch",
+          "path": "disable-update-check-and-welcome-popup.patch"
+        },
+        {
           "type": "file",
           "path": "Makefile",
           "dest-filename": "Makefile"
