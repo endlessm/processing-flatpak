@@ -1,0 +1,34 @@
+From bde6e5b05317178ca1d73598bea86ec032afbb70 Mon Sep 17 00:00:00 2001
+From: Lorenzo Tilve <ltilve@igalia.com>
+Date: Wed, 4 Jan 2017 11:15:27 +0100
+Subject: [PATCH] Disable update check and welcome popup on startup
+
+---
+ lib/defaults.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/lib/defaults.txt b/lib/defaults.txt
+index f166307..6dc8b58 100644
+--- a/lib/defaults.txt
++++ b/lib/defaults.txt
+@@ -50,7 +50,7 @@
+ # In 3.0, the location has changed.
+ #sketchbook.path.three=
+ 
+-welcome.show = true
++welcome.show = false
+ welcome.seen = false
+ 
+ # By default, no sketches currently open
+@@ -84,7 +84,7 @@ chooser.files.native.linux = false
+ # by default, check the processing server for any updates
+ # (please avoid disabling, this also helps us know basic numbers 
+ # on how many people are using Processing)
+-update.check = true
++update.check = false
+ 
+ # on windows, automatically associate .pde files with processing.exe
+ platform.auto_file_type_associations = true
+-- 
+2.11.0
+
