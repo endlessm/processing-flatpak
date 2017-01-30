@@ -3,6 +3,8 @@
 <component type="desktop">
   <id>org.processing.App.desktop</id>
   <metadata_licence>CC-BY-SA</metadata_licence>
+  <name>Processing</name>
+  <summary>Programming language and IDE for the electronic arts</summary>
   <description>
     <p>
       Processing is a flexible software sketchbook and a language for learning
