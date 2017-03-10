@@ -26,6 +26,10 @@
           "path": "disable-update-check-and-welcome-popup.patch"
         },
         {
+          "type": "patch",
+          "path": "fix-io-examples.patch"
+        },
+        {
           "type": "file",
           "path": "Makefile"
         },
