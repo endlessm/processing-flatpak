@@ -26,29 +26,28 @@
           "path": "disable-update-check-and-welcome-popup.patch"
         },
         {
-          "type": "file",
-          "path": "Makefile",
-          "dest-filename": "Makefile"
+          "type": "patch",
+          "path": "fix-io-examples.patch"
         },
         {
           "type": "file",
-          "path": "org.processing.App.png",
-          "dest-filename": "org.processing.App.png"
+          "path": "Makefile"
         },
         {
           "type": "file",
-          "path": "org.processing.App.desktop",
-          "dest-filename": "org.processing.App.desktop"
+          "path": "org.processing.App.png"
         },
         {
           "type": "file",
-          "path": "org.processing.App.appdata.xml",
-          "dest-filename": "org.processing.App.appdata.xml"
+          "path": "org.processing.App.desktop"
         },
         {
           "type": "file",
-          "path": "org.processing.App.mime.xml",
-          "dest-filename": "org.processing.App.mime.xml"
+          "path": "org.processing.App.appdata.xml"
+        },
+        {
+          "type": "file",
+          "path": "org.processing.App.mime.xml"
         }
       ]
     }
